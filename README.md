@@ -1,3 +1,4 @@
 This My first web. I use this for study. but it's not heavy. 
 
-Each object is may or may not be independent.
+1. 001 : trying tutorial.
+2. wallpaper.html : just for fun.
